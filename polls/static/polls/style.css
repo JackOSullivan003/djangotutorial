@@ -1,5 +1,10 @@
 li a {
-    color: green;
+    color: white;
+}
+
+p {
+    color:white; 
+    font-weight: bold;
 }
 
 body {
